@@ -1,5 +1,6 @@
 # 说明
 
+# 题目一
 修改此程序，从键盘输入年龄、身高、体重，确保输入的年龄、身高、体重为数值类型，如输入错误，重新输入.
 
 ```
@@ -76,3 +77,10 @@ public class Person {
 
 }
 ```
+
+## 题目二
+1.根据类图编写Employee、Worker和HourlyWorker三个类。要求三个类要有相应的构造方法。
+
+四、类的继承作业.pdf
+
+2.定义一个形状类CShape，其GetArea()方法返回0，在CShape类基础上派生出矩形类CRectangle和圆类CCircle,两者都有GetArea()方法计算对象的面积。试编写一个完整的程序。
